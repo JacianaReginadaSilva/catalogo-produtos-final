@@ -1,0 +1,6 @@
+export const produtos = [
+  { id: 1, nome: "Teclado Mecânico", preco: 250.00, categoria: "Periféricos", emPromocao: true },
+  { id: 2, nome: "Mouse Gamer", preco: 150.00, categoria: "Periféricos", emPromocao: false },
+  { id: 3, nome: "Monitor 24'", preco: 800.00, categoria: "Vídeo", emPromocao: true },
+  { id: 4, nome: "Headset USB", preco: 200.00, categoria: "Áudio", emPromocao: false },
+];
